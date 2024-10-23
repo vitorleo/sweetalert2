@@ -702,6 +702,7 @@ declare module 'sweetalert2' {
 
     /**
      * CSS classes for animations when showing a popup (fade in)
+     * Use `pop-up: swal2-show-boing'` to see the old default 'cartoonish' animation.
      *
      * @default { popup: 'swal2-show', backdrop: 'swal2-backdrop-show', icon: 'swal2-icon-show' }
      */
